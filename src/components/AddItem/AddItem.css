@@ -1,0 +1,16 @@
+.item-add-form {
+  width: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.item-add-form input {
+  margin-right: 20px;
+}
+
+.item-add-form button {
+  width: auto;
+  display: inline-block;
+}
